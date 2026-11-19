@@ -1,8 +1,0 @@
-.venv/
-__pycache__/
-jobs/
-test/
-*.mp4
-*.wav
-*.ts
-!docs/*.mp4
